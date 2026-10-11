@@ -1,0 +1,24 @@
+{
+  "name": "Shivaram Reddy — Portfolio",
+  "short_name": "Shivaram",
+  "description": "Personal portfolio of Shivaram Reddy. B.Tech Computer Science student at NNRG building full-stack web applications and AI-driven platforms.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f2ee",
+  "theme_color": "#0d0d0d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/character.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/character.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
